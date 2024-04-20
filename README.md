@@ -134,11 +134,11 @@
         </div>
     </section>
     <section id="share">
-        <h2>Share Your Story</h2>
+        <h2>Contact Us</h2>
         <form id="story-form" action="https://formspree.io/f/xbjnzbrg" method="post">
             <input type="text" id="name" name="name" class="form-input" placeholder="Your Name" required><br>
             <input type="email" id="email" name="email" class="form-input" placeholder="Your Email" required><br>
-            <textarea id="story" name="story" class="form-input" rows="4" placeholder="Your Story" required></textarea><br>
+            <textarea id="info" name="info" class="form-input" rows="4" placeholder="Your Info" required></textarea><br>
             <button type="submit" class="btn">Submit</button>
         </form>
     </section>
